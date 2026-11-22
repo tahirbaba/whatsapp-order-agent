@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/*.db*
+.env
+backups/
+data/backups/
+vendors/.history/
+data/demo/
